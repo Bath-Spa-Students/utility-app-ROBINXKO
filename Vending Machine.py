@@ -97,5 +97,5 @@ def vending_machine():
         else:
             print("Invalid code. Please try again or type 'QUIT' to exit.")
 
-# Codw to run the vending machine
+# Code to run the vending machine
 vending_machine()
